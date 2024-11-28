@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Digital MicroPhone",
+      "pictures": "https://img.drz.lazcdn.com/static/bd/p/b35c644da2da01746d81650482a7d1c6.jpg_200x200q80.jpg_.webp",
+      "About": "A Digital Microphone is a sound-capturing device that converts analog audio signals directly into digital data. Unlike traditional analog microphones, it features an integrated analog-to-digital converter (ADC), ensuring high-fidelity sound capture with minimal noise. Digital microphones are commonly used in smartphones, laptops, recording studios, and professional audio equipment due to their precision, compact size, and ease of integration with modern digital systems. They often connect via USB, I2S, or other digital interfaces, making them ideal for applications requiring clear, real-time audio input.",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "Digital MicroPhone",
+      "pictures": "https://img.drz.lazcdn.com/static/bd/p/6f89a5388f2ed959ad83bcec3079bf38.jpg_200x200q80.jpg_.webp",
+      "About": "A Digital Microphone is a sound-capturing device that converts analog audio signals directly into digital data. Unlike traditional analog microphones, it features an integrated analog-to-digital converter (ADC), ensuring high-fidelity sound capture with minimal noise. Digital microphones are commonly used in smartphones, laptops, recording studios, and professional audio equipment due to their precision, compact size, and ease of integration with modern digital systems. They often connect via USB, I2S, or other digital interfaces, making them ideal for applications requiring clear, real-time audio input.",
+      "views": 200
+    },
+    {
+      "id": "3",
+      "title": "Mercusy MR60X",
+      "pictures": "https://img.drz.lazcdn.com/static/bd/p/8b1f6b8cf2de183780b5115798835b41.jpg_200x200q90.jpg_.webp",
+      "About":"A Digital Microphone is a sound-capturing device that converts analog audio signals directly into digital data. Unlike traditional analog microphones, it features an integrated analog-to-digital converter (ADC), ensuring high-fidelity sound capture with minimal noise. Digital microphones are commonly used in smartphones, laptops, recording studios, and professional audio equipment due to their precision, compact size, and ease of integration with modern digital systems. They often connect via USB, I2S, or other digital interfaces, making them ideal for applications requiring clear, real-time audio input.",
+      "views": 300
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": null
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": null
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

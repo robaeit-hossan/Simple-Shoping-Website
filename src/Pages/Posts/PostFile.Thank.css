@@ -1,0 +1,37 @@
+.thank-you-message {
+    background-color: #d4edda; /* Light green background */
+    color: #155724; /* Dark green text */
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 1.2rem;
+    max-width: 400px;
+    margin-top: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  /* Keyframes for animation */
+@keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px); /* Starts lower */
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0); /* Ends at the normal position */
+    }
+  }
+  
+  /* Apply animation to the element */
+  .animated-message {
+    animation: fadeInUp 1s ease-in-out;
+    background-color: #d4edda;
+    color: #155724;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    text-align: center;
+    max-width: 400px;
+    margin-top: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
